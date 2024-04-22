@@ -41,3 +41,8 @@ class AboutMe:
         FinishReadingMyBooks()
         JoinABand()
 ```
+
+<h2 align="center">Reach Out!</h2>
+
+- [My CV](https://drive.google.com/file/d/12WiYtqGYXfJFCrcRaP8BJjF-19DJg-w4/view?usp=sharing)
+- [Linkedin](https://www.linkedin.com/in/matt-newhall)
