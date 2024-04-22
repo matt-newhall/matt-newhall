@@ -4,21 +4,22 @@
   </a>
 </p>
 
-###  🎓 MEng Computer Science from Durham University
+<h3 align="left">🎓 MEng Computer Science from Durham University</h3>
+<hr>
 
-###  💻 Previously Theodo UK
+<h2 align="center" style="margin-top:2px">Some of my favourite Programming Languages & Technologies!</h2>
 
-## Some of my favourite Programming Languages & Technologies!
-
-<img src='https://img.icons8.com/fluent/60/000000/typescript.png' />
-<img src='https://img.icons8.com/fluent/60/000000/javascript.png' />
-<img src='https://img.icons8.com/color/60/000000/react-native.png' />
-<img src='https://img.icons8.com/fluent/60/000000/python.png' />
-<img src='https://img.icons8.com/color/60/000000/nodejs.png' />
-<img src='https://img.icons8.com/color/60/000000/tailwindcss.png' />
-<img src='https://img.icons8.com/color/60/000000/express-js.png' />
-
-## About Me
+<p align='left'>
+  <img src='https://img.icons8.com/fluent/60/000000/typescript.png' alt='typescript' />
+  <img src='https://img.icons8.com/fluent/60/000000/javascript.png' alt='javascript' />
+  <img src='https://img.icons8.com/color/60/000000/react-native.png' alt='react native' />
+  <img src='https://img.icons8.com/fluent/60/000000/python.png' alt='python' />
+  <img src='https://img.icons8.com/color/60/000000/nodejs.png' alt='node js' />
+  <img src='https://img.icons8.com/color/60/000000/tailwindcss.png' alt='tailwind css' />
+  <img src='https://img.icons8.com/color/60/000000/express-js.png' alt='express js' />
+</p>
+<hr>
+<h2 align="center" style="margin-top:2px">About Me</h2>
 
 ```python
 class AboutMe:
