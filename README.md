@@ -1,4 +1,4 @@
-<img src='./assets/banner.svg' width="700" height="200" />
+<img src='./assets/banner.svg' />
 
 ###  🎓 MEng Computer Science from Durham University
 
