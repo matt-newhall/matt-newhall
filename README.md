@@ -5,9 +5,8 @@
 </p>
 
 <h3 align="left">🎓 MEng Computer Science from Durham University</h3>
-<hr>
 
-<h2 align="center" style="margin-top:2px">Some of my favourite Programming Languages & Technologies!</h2>
+<h2 align="center">Some of my favourite Programming Languages & Technologies!</h2>
 
 <p align='left'>
   <img src='https://img.icons8.com/fluent/60/000000/typescript.png' alt='typescript' />
@@ -18,8 +17,8 @@
   <img src='https://img.icons8.com/color/60/000000/tailwindcss.png' alt='tailwind css' />
   <img src='https://img.icons8.com/color/60/000000/express-js.png' alt='express js' />
 </p>
-<hr>
-<h2 align="center" style="margin-top:2px">About Me</h2>
+
+<h2 align="center">About Me</h2>
 
 ```python
 class AboutMe:
