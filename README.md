@@ -29,8 +29,7 @@ class AboutMe:
       'Green Tech',
       'Playing Music',
       'Watching Anime',
-      'Cooking',
-      '',
+      'Cooking'
     ]
 
     def getEmail():
